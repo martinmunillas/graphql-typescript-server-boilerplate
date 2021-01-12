@@ -1,0 +1,11 @@
+*.log
+.dockerignore
+.git
+.gitignore
+build/*
+Dockerfile
+docker-compose.yml
+node_modules
+npm-debug.log*
+yarn.lock
+README.md
